@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
 import React from "react";
 
-const Footer = () => {
+export default function Footer(){
   return (
     <footer className=" bg-[#1E1E1E] text-gray-300 py-12 px-6 md:px-16 lg:px-24">
       {/* Top Section */}
@@ -90,4 +90,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+

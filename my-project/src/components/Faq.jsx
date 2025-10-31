@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ChevronDown, ChevronUp, Minus, Phone, Plus } from "lucide-react";
+import {  Minus, Phone, Plus } from "lucide-react";
 
 const FAQ = () => {
   const [openIndex, setOpenIndex] = useState(null);

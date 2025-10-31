@@ -2,6 +2,7 @@ import Hero from "./hero";
 import List from "./list";
 import Navbar from "./navbar";
 import Security from "./security";
+import Yt from "./yt";
 
 export default function LandingPage() {
     return(
@@ -10,6 +11,7 @@ export default function LandingPage() {
         <Hero/>
         <List/>
         <Security/>
+        <Yt/>
         
         </>
     )

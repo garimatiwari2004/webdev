@@ -1,7 +1,6 @@
 import Explore from "./explore";
 import FAQ from "./Faq";
-import FooterPage from "./footerpage";
-import FooterPage from "./footerpage";
+
 
 import Hero from "./hero";
 import List from "./list";
@@ -19,7 +18,7 @@ export default function LandingPage() {
         <Yt/>
         <Explore/> 
         <FAQ/> 
-        <FooterPage/>
+        {/* <FooterPage/> */}
         
         </>
     )

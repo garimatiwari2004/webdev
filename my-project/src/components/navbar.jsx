@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../assets/image.png";
+import logo from "../assets/logo.png";
 import { Menu, X, MoveUpRight, User2 } from "lucide-react";
 
 export default function Navbar() {

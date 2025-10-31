@@ -1,3 +1,7 @@
+import Explore from "./explore";
+import FAQ from "./Faq";
+import Footer from "./Footer";
+
 import Hero from "./hero";
 import List from "./list";
 import Navbar from "./navbar";
@@ -12,6 +16,9 @@ export default function LandingPage() {
         <List/>
         <Security/>
         <Yt/>
+        <Explore/> 
+        <FAQ/> 
+        <Footer/>
         
         </>
     )
